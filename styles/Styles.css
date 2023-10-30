@@ -1,0 +1,130 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#cabeçalho_1 {
+  background-color: #d3d3d3;
+  /* height: 20px; */
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: #d3d3d3;
+  list-style: none;
+  display: flex;
+}
+#cabeçalho_2 {
+  background-color: #d3d3d3;
+  width: 90%;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  /* color:grey; */
+  list-style: none;
+  display: flex;
+}
+#cabeçalho_1 nav {
+  background-color: #d3d3d3;
+  width: 80%;
+}
+
+#texto_Agradeço_Visita {
+  width: 90%;
+  display: flex;
+}
+
+#texto_Agradeço_Visita img {
+  width: 30%;
+  height: 20%;
+  display: flex;
+}
+
+#sobre_mim {
+  background-color: #d3d3d3;
+}
+#ImagemSobreMim {
+  width: 100%;
+  background-color: #d3d3d3;
+  display: flex;
+  justify-content: center;
+  
+}
+#ImagemSobreMim img {
+  margin: auto;
+}
+
+#imagem_1 {
+  width: 80%;
+  margin: auto;
+}
+
+.icones {
+  display: flex;
+}
+
+#autoCad {
+  width: 75%;
+}
+
+#revit {
+  width: 65%;
+}
+
+#SketchUp {
+  width: 65%;
+  height: 50%;
+}
+#excel {
+  width: 50%;
+  height: 50%;
+}
+
+#html {
+  width: 55%;
+  height: 55%;
+}
+
+#css {
+  width: 50%;
+  height: 35%;
+}
+
+table img {
+  width: 98%;
+  height: 30%;
+}
+
+.projetos {
+  background-color: #c0c0c0;
+}
+
+.Certificações {
+  display: flexbox;
+}
+
+#especialização {
+  display: flex;
+  font-size: small;
+  justify-content: space-between;
+  margin: auto;
+}
+
+#RedesSociais ul {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  padding: 0%;
+  list-style: none;
+}
+
+footer {
+  background-color: #d3d3d3;
+
+  justify-content: space-around;
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  margin: auto;
+  height: 60px;
+  align-items: center;
+}
